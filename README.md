@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Salut, moi c'est Loris.rss 👋<br><br>Passionné par l'analyse de données et le développement web, je crée des solutions concrètes pour résoudre des problèmes réels.<br><br>🔧 Compétences<br><br>* Langages : Python, SQL<br>* **Frameworks :** Streamlit, Pandas<br>* **Bases de données :** MongoDB, Google Sheets<br>* **APIs :** YouTube, Riot Games, HAL, ORCID, Scopus<br><br>📊 Projets<br><br>* **Research Visibility Checker :** Analyse visibilité académique (Streamlit, APIs)<br>* **Neptunia Esport Analytics :** Dashboard performances League of Legends (Python, MongoDB)<br>* **YouTube Mail Extractor :** Extraction automatisée d'emails marketing (Python, Google Sheets)<br><br>🎯 Objectifs actuels<br><br>* 🔍 Optimiser les analyses de données<br>* 🌐 Développer des applications web avancées<br>* 📚 Explorer de nouveaux domaines en Data Science<br><br>## 📫 Contact<br><br>* **LinkedIn :** [Mon profil](https://linkedin.com/in/loris-rousseau)<br>* **Email :** [rousseau.loris@hotmail.com](mailto:rousseau.loris@hotmail.com)<br><br>⚡ Fun fact : J'analyse les performances esportives pour une équipe (bientôt annoncée) ! ! 🎮📊
+## Salut, moi c'est Loris.rss 👋<br><br>Passionné par l'analyse de données et le développement web, je crée des solutions concrètes pour résoudre des problèmes réels.<br><br>🔧 Compétences<br><br>* Langages : Python, SQL<br>* **Frameworks :** Streamlit, Pandas<br>* **Bases de données :** MongoDB, Google Sheets<br>* **APIs :** YouTube, Riot Games, HAL, ORCID, Scopus<br><br>📊 Projets<br><br>* **Research Visibility Checker :** Analyse visibilité académique (Streamlit, APIs)<br>* **Neptunia Esport Analytics :** Dashboard performances League of Legends (Python, MongoDB)<br>* **YouTube Mail Extractor :** Extraction automatisée d'emails marketing (Python, Google Sheets)<br><br>🎯 Objectifs actuels<br><br>* 🔍 Optimiser les analyses de données<br>* 🌐 Développer des applications web avancées<br>* 📚 Explorer de nouveaux domaines en Data Science<br><br>📫 Contact<br><br>* **LinkedIn :** [Mon profil](https://linkedin.com/in/loris-rousseau)<br>* **Email :** [rousseau.loris@hotmail.com](mailto:rousseau.loris@hotmail.com)<br><br>⚡ Fun fact : J'analyse les performances esportives pour une équipe (bientôt annoncée) ! ! 🎮📊
 
 
 ## 🌐 Socials:
@@ -12,7 +12,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Loris-rss&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Loris-rss&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Loris-rss&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
