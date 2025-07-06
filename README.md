@@ -1,99 +1,18 @@
-# Salut ! Je suis Loris 👋
+# 💫 About Me:
+## Salut, moi c'est \Loris.rss👋<br><br>Passionné par l'analyse de données et le développement web, je crée des solutions concrètes pour résoudre des problèmes réels.<br><br>---<br><br>## 🔧 Compétences<br><br>* **Langages :** Python, SQL<br>* **Frameworks :** Streamlit, Pandas<br>* **Bases de données :** MongoDB, Google Sheets<br>* **APIs :** YouTube, Riot Games, HAL, ORCID, Scopus<br><br>---<br><br>## 📊 Projets<br><br>* **Research Visibility Checker :** Analyse visibilité académique (Streamlit, APIs)<br>* **Neptunia Esport Analytics :** Dashboard performances League of Legends (Python, MongoDB)<br>* **YouTube Mail Extractor :** Extraction automatisée d'emails marketing (Python, Google Sheets)<br><br>---<br><br>## 🎯 Objectifs actuels<br><br>* 🔍 Optimiser les analyses de données<br>* 🌐 Développer des applications web avancées<br>* 📚 Explorer de nouveaux domaines en Data Science<br><br>---<br><br>## 📫 Contact<br><br>* **LinkedIn :** [Mon profil](https://linkedin.com/in/loris-rousseau)<br>* **Email :** [rousseau.loris@hotmail.com](mailto:rousseau.loris@hotmail.com)<br><br>---<br><br>⚡ Fun fact : J'analyse les performances esportives pour une équipe (bientôt annoncée) ! ! 🎮📊
 
-## 🚀 Développeur Python & Data Analyst
 
-Passionné par l'analyse de données et le développement d'applications web, je crée des solutions concrètes pour résoudre des problèmes réels dans différents domaines.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/loris-r-36bb25297/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/LxSheep_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rousseau.loris@hotmail.com) 
 
----
-
-## 🔧 Compétences Techniques
-
-### 💻 Langages & Frameworks
-- **Python** - Expertise avancée avec Streamlit, Pandas, NumPy
-- **Data Science** - Machine Learning, analyse statistique, visualisation
-- **Web Development** - Applications Streamlit, APIs REST
-- **Base de données** - MongoDB, Google Sheets, Excel
-
-### 🛠️ Outils & Technologies
-- **APIs** : YouTube Data API, Riot Games API, HAL, ORCID, Scopus
-- **Visualisation** : Plotly, Matplotlib, Altair
-- **Cloud** : Google Cloud Platform, Google Sheets API
-- **Version Control** : Git, GitHub
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Loris-rss&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Loris-rss&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Loris-rss&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Loris-rss&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 Projets Principaux
-
-### 🎓 [Research Visibility Checker V2](https://github.com/Loris-rss/Research-Visbility-Checker-V2)
-**Application d'analyse de visibilité académique**
-- Intégration de 4 bases de données scientifiques (HAL, ORCID, Scopus, Web of Science)
-- Détection automatique des publications manquantes et des doublons
-- Interface Streamlit intuitive avec export Excel
-- **Tech** : Python, Streamlit, APIs multiples, Pandas
-
-### 🎮 [Neptunia Esport Analytics](https://github.com/Loris-rss/Data-Analyse-Streamlit-Esport)
-**Dashboard d'analyse pour équipe League of Legends**
-- Tracking des performances SoloQ et matchs officiels
-- Intégration Riot Games API + MongoDB
-- Métriques avancées : KDA, CSD@15, DPM, Vision Score
-- **Tech** : Python, Streamlit, MongoDB, Riot API, Google Sheets
-
-### 🎵 [YouTube Mail Extractor](https://github.com/Loris-rss/Youtube-Mail-Extractor)
-**Outil d'extraction d'emails pour marketing musical**
-- Extraction automatique depuis les descriptions YouTube
-- Filtrage intelligent des créateurs de contenu
-- Export vers Google Sheets avec évitement des doublons
-- **Tech** : Python, YouTube API, Google Sheets, RegEx
-
-### 🤖 Machine Learning Projects
-**Projets d'apprentissage**
-- Classification d'espèces d'iris avec analyse complète
-- Exploration de données et visualisations avancées
-- **Tech** : Python, Jupyter, Pandas, Scikit-learn
-
----
-
-## 🌟 Domaines d'Expertise
-
-- **🔬 Recherche Académique** : Outils pour optimiser la visibilité scientifique
-- **🎮 Esport Analytics** : Analyse de performances gaming
-- **📊 Data Analysis** : Transformation de données brutes en insights
-- **🌐 Web Applications** : Développement d'interfaces utilisateur intuitives
-- **🔌 API Integration** : Connexion et synchronisation de services multiples
-
----
-
-## 📈 Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Loris-rss&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Loris-rss&layout=compact&theme=radical)
-
----
-
-## 🎯 Objectifs Actuels
-
-- 🔍 Amélioration continue des algorithmes d'analyse de données
-- 🌐 Développement d'applications web plus avancées
-- 📚 Exploration de nouveaux domaines en Data Science
-- 🤝 Collaboration sur des projets open source
-
----
-
-## 📫 Me Contacter
-
-<!-- - **Twitter/X** : [@LxSheep_](https://x.com/LxSheep_) -->
-- **LinkedIn** : [Mon profil](https://linkedin.com/in/loris-rousseau)
-- **Email** : rousseau.loris@hotmail.com
-
----
-
-## ⚡ Fun Facts
-
-- 🎮 J'analyse les données esport pour l'équipe Neptunia
-- 📊 J'aide les chercheurs à optimiser leur visibilité académique
-- 🎵 J'automatise l'extraction de contacts pour l'industrie musicale
-- 🐍 Python est mon langage de prédilection pour tout projet data
-
----
-
-*"Les données racontent toujours une histoire, il suffit de savoir l'écouter."* 📊✨
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
